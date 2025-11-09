@@ -1,4 +1,4 @@
-# Đồ án: Ứng dụng Web Dự đoán Rủi ro Tín dụng
+# Dự đoán rủi ro tín dụng
 
 Đây là đồ án môn học, xây dựng một mô hình Machine Learning (Logistic Regression)
 để dự đoán khả năng vỡ nợ của khách hàng và triển khai mô hình đó
