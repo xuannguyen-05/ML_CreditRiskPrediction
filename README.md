@@ -64,7 +64,7 @@ Mô hình **Logistic Regression** được lựa chọn để triển khai vì:
 
 Ứng dụng "CreditVision" được xây dựng để triển khai mô hình Logistic Regression đã chọn. Ứng dụng mô phỏng công cụ của chuyên viên tín dụng, sử dụng logic "Đèn giao thông" (Xanh/Vàng/Đỏ) để hỗ trợ ra quyết định.
 
-![Giao diện ứng dụng](imagesA/app.png)
+![Giao diện ứng dụng](images/app.png)
 
 ### Hướng dẫn chạy
 
