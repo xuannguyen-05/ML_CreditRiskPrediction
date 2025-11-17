@@ -17,7 +17,6 @@ Dưới đây là tóm tắt các phát hiện (insight) quan trọng nhất t�
 
 Phân tích biến mục tiêu `Default` cho thấy bộ dữ liệu mất cân bằng nghiêm trọng.
 
-*(Thay `ten-file-anh.png` bằng tên file ảnh của bạn trong thư mục `images`)*
 ![Phân phối Default](images/phanphoi.png)
 
 **Nhận xét:** Dữ liệu chỉ có **11.62%** là "Vỡ nợ" (lớp 1). Điều này khẳng định đây là một thách thức lớn, đòi hỏi phải sử dụng các kỹ thuật xử lý (như RandomOverSampler) và tập trung vào **metric Recall** (khả năng phát hiện) thay vì Accuracy.
