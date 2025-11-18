@@ -1,4 +1,4 @@
-# Đồ án: Dự đoán Rủi ro Tín dụng (Phân tích & Ứng dụng Web)
+# Dự đoán Rủi ro Tín dụng (Phân tích & Ứng dụng Web)
 
 Dự án này thực hiện hai mục tiêu chính:
 1.  **Phân tích (Baseline):** Phân tích, trực quan hóa và huấn luyện 5 mô hình Machine Learning (XGBoost, Random Forest, Logistic Regression, SVM, Decision Tree) để tìm ra mô hình dự đoán rủi ro vỡ nợ tốt nhất.
