@@ -44,7 +44,7 @@ So sánh các biến độc lập với biến mục tiêu `Default` cho thấy 
 | Mô hình | Recall (lớp 1) | Precision (lớp 1) | ROC-AUC | Ghi chú |
 | :--- | :---: | :---: | :---: | :--- |
 | **Logistic Regression** | **0.70** | 0.22 | **0.752** | **Lựa chọn** (Recall cao, Nhanh) |
-| **SVM** | **0.70** | 0.22 | **0.752** | Recall cao, nhưng rất chậm |
+| **SVM** | **0.70** | 0.22 | **0.752** | Recall cao, nhưng chậm |
 | XGBoost | 0.68 | 0.23 | 0.757 | Hiệu suất tốt |
 | Random Forest | 0.68 | 0.22 | 0.747 | Tương tự XGBoost |
 | Decision Tree | 0.66 | 0.21 | 0.724 | Hiệu suất thấp nhất |
